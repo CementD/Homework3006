@@ -1,0 +1,2 @@
+Company A,Name A,123456789,Street A,Activity A
+Company B,Name B,987654321,Street B,Activity B
